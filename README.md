@@ -22,9 +22,9 @@ Here are some of the notable projects I have worked on:
 
 1. [Krypt](https://github.com/Bravyn/krypt):  A crypto educational website built with vanilla js, html and css utilizing BEM principles.
 
-2. [Project 2](https://github.com/Bravyn/The-Age-of-Intelligence): Another exciting project =text based adventure game -  that demonstrates my skills and creativity.
+2. [The Age of Intelligence](https://github.com/Bravyn/The-Age-of-Intelligence): Another exciting project =text based adventure game -  that demonstrates my skills and creativity.
 
-3. [Project 3](https://github.com/Bravyn/Mtafiti/tree/main/mtafiti): A project that showcases my ability to work with different technologies and frameworks.
+3. [Mtafiti](https://github.com/Bravyn/Mtafiti/tree/main/mtafiti): A project that showcases my ability to work with different technologies and frameworks.
 
 Feel free to explore my GitHub repositories to discover more of my projects and contributions.
 
