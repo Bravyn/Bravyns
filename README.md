@@ -34,9 +34,9 @@ Working on it.
 
 ## Blog
 
-Apart from coding, I enjoy sharing my knowledge and experiences through writing. Visit my [blog](ianbravyn.hashnode.dev) to read my latest articles on front-end development, CSS tips and tricks, and more.
+Apart from coding, I enjoy sharing my knowledge and experiences through writing. Visit my blog at ianbravyn.hashnode.dev to read my latest articles on front-end development, CSS tips and tricks, and more.
 
 ## Contact
-Feel free to send me an email(ianbravynsa@gmail.com). You can also connect with me on LinkedIn(linkedin.com/in/ian-bravyn-abwoto) to stay updated with my latest projects and activities.
+Feel free to send me an email (ianbravynsa@gmail.com). You can also connect with me on [LinkedIn] (linkedin.com/in/ian-bravyn-abwoto) to stay updated with my latest projects and activities.
 
 Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and contributing to exciting projects.
