@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bravyn
-- 👀 I’m interested in front-end development and back end Python programmming, data science deep learning.
-- 🌱 I’m currently learning docker
+- 👀 I’m a front-end developer.
+- 🌱 I’m currently learning game dev in javascript.
 - 💞️ I’m looking to collaborate on valuable projects.
 - 📫 Lets chat on telegram @crocodile_king or email me ianbravynsa@gmail.com
 
